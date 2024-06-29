@@ -19,6 +19,7 @@ This repository contains select lab assignments from a Data Mining course. These
 
 - Python
 - Libraries: Scikit-learn, Matplotlib, Seaborn, Pandas, NumPy
+  even metis was used for lab 14
 - Tools: Jupyter Notebook
 
 ## Featured Labs
@@ -48,6 +49,10 @@ cd data-mining-labs
 ```
 
 Installing
+Each notebook is self-contained and most of the work was done in colab, in any case, feel free to open an issue to ask me which lab can have an issue with the installation.
+
+
 
 ## Usage
+Open in Google Colab or any cloud notebook and run the cells in each notebook to see the results and analysis. Feel free to modify the code and experiment with different parameters to gain a better understanding of the concepts covered in each lab.
 
