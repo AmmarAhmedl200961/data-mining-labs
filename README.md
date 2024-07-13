@@ -40,7 +40,7 @@ Demonstrates various data visualization techniques alongside clustering methods 
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/data-mining-labs.git
+git clone https://github.com/AmmarAhmedl200961/data-mining-labs.git
 ```
 
 Navigate to the project directory:
